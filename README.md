@@ -1,7 +1,7 @@
 # Hello There 🖖
 ## What I am up to right now 
 Currently writing my bachelor theses about clickstream platforms and am therefore building one.
-Part of the theses will talk about how to scale application in the cloud. Another part is about how to manage many user-events at once and how to use polyglot-persistency for storing data in a meaningful way [this-is-the-state-of-it](https://github.com/KonstantinGasser/clickstream)
+Part of the theses will talk about how to scale application in the cloud. Another part is about how to utilize big-data frameworks like Flink to make real time analyise. [this-is-the-state-of-it](https://github.com/KonstantinGasser/clickstream)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinGasser&show_icons=true&theme=dark)] (https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinGasser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
