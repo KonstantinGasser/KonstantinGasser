@@ -1,28 +1,21 @@
 # Hello There 🖖
 
+## About me
+
+I am 22 year software engineer who got hooked on programming 🥴. In my free time I try to do cool things however many of them are just things :D. 
+
+Already during my studies I got very excited about distributed systems and their way of working. This is one of the reasons I am hacking in #golang for the last two years now! So much fun 😇.
+
 ## 🔭 Side Projects I am working on...
 
-- [sherlock](https://github.com/KonstantinGasser/sherlock) a simple CLI password manager which suits my needs
-- [davinci](https://github.com/KonstantinGasser/davinci) web-app to control a 16x16 LED matrix, playting snake and displaying gifs
+### ***weeat***
 
-I love to hack in #golang and generally am interested in distributed systems and environments ☁️🌏.
-<!--
-## What I am up to right now 
-Currently writing my bachelor theses about clickstream platforms and am therefore building one.
-Part of the theses will talk about how to scale application in the cloud. Another part is about how to utilize big-data frameworks like Flink to make real time analyse. [this-is-the-state-of-it](https://github.com/KonstantinGasser/clickstream)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinGasser&show_icons=true&theme=dark)] (https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinGasser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[weeat](https://github.com/KonstantinGasser/weeat) is yet to become something cool - however, the idea behind the app is that I really got annoyed by the fact that apps for recipes, calorie tracking and meal plans hit you with a paywall...not cool. The basic idea of `weeat` is to let the network, the users be the content creator - and be free for all while collecting no user data at any point in time. Cause not all things needs to make profit, right!
 
-**KonstantinGasser/KonstantinGasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 go check it out ***[weeat](https://github.com/KonstantinGasser/weeat)*** , feedback and contributions are very much appreciated :) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ***sherlock***
+`sherlock` is a very simple cli password manager which suits my needs. I use it every day to manage my passwords for online accounts and servers. 
+
+👉 ***[sherlock](https://github.com/KonstantinGasser/sherlock)*** 
