@@ -10,7 +10,7 @@ Already during my studies I got very excited about distributed systems and their
 
 ### ***weeat***
 
-[weeat](https://github.com/KonstantinGasser/weeat) is an open network to share information about food nutrition values, recipes and allows you to generate meal-plans for you. Got annoyed that all the exiting apps hit you with a pay-walls..
+[weeat](https://github.com/KonstantinGasser/weeat) is an open network for sharing information about food nutrition values, recipes and allows you to generate meal-plans for you. Got annoyed that all the exiting apps hit you with a pay-walls..
 
 👉 go check it out ***[weeat](https://github.com/KonstantinGasser/weeat)*** , feedback and contributions are very much appreciated :) 
 
