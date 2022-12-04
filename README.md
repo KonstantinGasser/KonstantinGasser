@@ -8,12 +8,14 @@ Already during my studies I got very excited about distributed systems and their
 
 ## 🔭 Side Projects I am working on...
 
-### ***weeat***
+<!-- ### ***weeat***
 
 [weeat](https://github.com/KonstantinGasser/weeat) is an open network for sharing information about food nutrition values, recipes and allows you to generate meal-plans for you. Got annoyed that all the exiting apps hit you with a pay-walls..
 
-👉 go check it out ***[weeat](https://github.com/KonstantinGasser/weeat)*** , feedback and contributions are very much appreciated :) 
+👉 go check it out ***[weeat](https://github.com/KonstantinGasser/weeat)*** , feedback and contributions are very much appreciated :)  -->
 
+### beam me up, [scotty](https://github.com/KonstantinGasser/scotty)
+a cli tool to multiplex logs streams into a consolidated view to apply aggregations and filters on them.
 
 ### ***sherlock***
 `sherlock` is a very simple cli password manager which suits my needs. I use it every day to manage my passwords for online accounts and servers. 
