@@ -15,7 +15,7 @@ Already during my studies I got very excited about distributed systems and their
 👉 go check it out ***[weeat](https://github.com/KonstantinGasser/weeat)*** , feedback and contributions are very much appreciated :)  -->
 
 ### beam me up, [scotty](https://github.com/KonstantinGasser/scotty)
-Scotty is development tool which allows you to multiplex logs streams from different aplications on your local system into one consolidated view. Furthermore, Scotty has a simple query language get more insights into your logs.
+Why only query and multiplex logs in production environments? `scotty` helps with that by multiplexing your logs from many local applications into a consolidated view on which you can apply filters or even run queries on your logs!
 
 ### ***sherlock***
 `sherlock` is a very simple cli password manager which suits my needs. I use it every day to manage my passwords for online accounts and servers. 
