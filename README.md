@@ -1,10 +1,12 @@
 # Hello There 🖖
 
-<!-- ## About me
+## 🫠 Currently confused about...
 
-I am 23 year software engineer who got hooked on programming 🥴. In my free time I try to do cool things however many of them are just things 
+This is a small collection of projects to practivce and playaround with rust and its eco-system
+👉 ***[rusting](https://github.com/KonstantinGasser/ziggy/tree/main/rust)***
 
-Already during my studies I got very excited about distributed systems and their way of working. This is one of the reasons I am hacking in #golang for the last two years now! So much fun 😇 -->
+Besides programming I am facinated with replication and consensus protocols. Currently trying to wrap my head around [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf)..
+
 
 ## 🔭 Side Projects I am working on...
 
