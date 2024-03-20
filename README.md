@@ -1,11 +1,13 @@
 # Hello There 🖖
 
 ## 🫠 Currently confused about...
-### Programming
+
+### ***Programming***
 This is a small collection of projects to practivce and playaround with rust and its eco-system
 
-### Concepts
 👉 ***[rusting](https://github.com/KonstantinGasser/ziggy/tree/main/rust)***
+
+### ***Concepts***
 
 Besides programming I am facinated with replication and consensus protocols. Currently trying to wrap my head around [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf)..
 
