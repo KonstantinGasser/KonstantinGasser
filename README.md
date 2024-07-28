@@ -7,9 +7,14 @@ This is a small collection of projects to practivce and playaround with rust and
 
 👉 ***[rusting](https://github.com/KonstantinGasser/ziggy/tree/main/rust)***
 
-### ***Concepts***
+### ***Reading List***
 
-Besides programming I am facinated with replication and consensus protocols. Currently trying to wrap my head around [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf)..
+Besides programming I try to wrap my head around concepts in the field of distributed-systems and concurrent programming. 
+- [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf)
+- [Zab: High-performance broadcast for primary-backup systems](http://ieeexplore.ieee.org/document/5958223/)
+- [Sequential Consistency versus Linearizability](https://groups.csail.mit.edu/tds/papers/Attiya/SPAA91.pdf)
+
+*Any suggestions? Tell me :)*
 
 
 ## 🔭 Side Projects I am working on...
